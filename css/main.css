@@ -16,16 +16,16 @@ html {
   box-sizing: inherit;
 }
 
-img{
+img {
   width:100%;
 }
 
-ul{
+ul {
   list-style-type: none;
   display: inline-block;
 }
 
-li{
+li {
   display: inline-block;
 }
 
@@ -42,10 +42,10 @@ li{
   background-color:grey;
 }
 
-.argyle{
+.argyle {
   display:none;
 }
 
-.argyle:target{
+.argyle:target {
   display:block;
 }
