@@ -22,6 +22,11 @@ img{
 
 ul{
   list-style-type: none;
+  display: inline-block;
+}
+
+li{
+  display: inline-block;
 }
 
 .circle {
@@ -35,4 +40,12 @@ ul{
 
 .circle:hover {
   background-color:grey;
+}
+
+.argyle{
+  display:none;
+}
+
+.argyle:target{
+  display:block;
 }
