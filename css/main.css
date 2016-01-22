@@ -17,7 +17,7 @@ html {
 }
 
 img {
-  width:100%;
+  width: 100%;
 }
 
 ul {
@@ -39,13 +39,13 @@ li {
 }
 
 .circle:hover {
-  background-color:grey;
+  background-color: grey;
 }
 
 .argyle {
-  display:none;
+  display: none;
 }
 
 .argyle:target {
-  display:block;
+  display: block;
 }
